@@ -2,3 +2,6 @@ Lab 2 - new text
 What's up?
 My name is Sergio,
 but I prefer Jj though.
+Hi Jj!
+What's up with you?
+Are you enjoying this training?
